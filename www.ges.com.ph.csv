@@ -1,0 +1,4 @@
+role_id,user_id,agency_id,suppliers_id,email,last_ip,add_time,nav_list,password,todolist,lang_type,user_name,last_login,action_list
+NULL,1,0,0,endychq@gmail.com,113.116.176.66,1327168133,<blank>,a6b6cc868565d9241c4c4c6590a91fd0,NULL,<blank>,admin,1550867370,all
+0,16,0,0,910384917@qq.com,116.24.64.175,1550272204,<blank>,14dc989572edbde2ffe297e6fa83399c,NULL,<blank>,dirkchou,1550272579,"article_cat,article_manage,template_manage,admin_manage,logs_manage,logs_drop,role_manage,db_backup,db_renew,db_backup,db_renew,db_optimize,sql_query,convert"
+
