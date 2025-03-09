@@ -1,0 +1,4 @@
+id,email,date,type,lastname,password,firstname,resetPassword
+1,contact@cre8oz.com,2014-06-11 00:00:00,0,BON,7d08fb6020dcece7bfa3663c05bd9a28,Matthias,0
+2,nathalie.renard@apf.asso.fr,2022-08-08 11:41:22,1,RENARD,94baaad4d1347ec6e15ae35c88ee8bc8,Nathalie,1
+
