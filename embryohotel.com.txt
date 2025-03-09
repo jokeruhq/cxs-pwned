@@ -1,0 +1,10 @@
+Url : http://embryohotel.com/
+
+url admin login : http://embryohotel.com/admin/
+
+Pass :
+id,password,username,permission,last_insert,last_update
+1,e742c63f03ab602f2b38433ffc28b5145ba1332d,admin,1,2016-10-15 00:00:00,2018-11-07 02:10:47
+2,8988c8cb582506f93b59b794af7212cb5406dfcf,ARMERX,0,2020-02-11 10:58:49,2020-02-11 10:58:49
+
+Encrypted psswd
